@@ -23,7 +23,7 @@
     <a href="https://github.com/benyji/fire-alarm-system"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.tinkercad.com/things/8lGohPeoOZy-fire-alarm-system">View TinkerCad Demo</a>
+    <a href="https://www.tinkercad.com/things/8lGohPeoOZy-fire-alarm-system/editel?sharecode=8Y5Wv5BWVGLZi1ZAPi6bKRMzGM8Z3DBjA2ip9ukAmRk">View TinkerCad Demo</a>
     ·
     <a href="https://github.com/benyji/fire-alarm-system/issues">fire-alarm-systemrt Bug</a>
     ·
@@ -64,11 +64,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.tinkercad.com/things/8lGohPeoOZy-fire-alarm-system/editel?sharecode=8Y5Wv5BWVGLZi1ZAPi6bKRMzGM8Z3DBjA2ip9ukAmRk)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`benyji`, `fire-alarm-system`, `@benyjinetwork`, `N/A`, `Arduino Based Fire Alarm System`, `An interactive Arduino based fire alarm system.`
+This project aims towards allowing for work-place industry quaility fire-alarm control systems into the every day home. A fun project for intermediate Arduino users or those looking for something new and exciting.
+
+Project Tags:
+`fire-alarm`, `arduino`, `piezo`, `temperature`, `neopixel`, `jewel`, `LCD`, `buttons`, `gas`, `gas-sensor`
 
 
 ### Built With
