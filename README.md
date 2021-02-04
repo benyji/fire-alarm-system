@@ -73,23 +73,23 @@ Project Tags:
 
 ### Built With
 
-* [Tinkercad]()
-* [Arduino]()
-* [Neopixel]()
+* [Tinkercad](https://www.tinkercad.com)
+* [Arduino](https://www.arduino.cc/)
+* [Neopixel](https://www.adafruit.com/category/168)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a online copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is an example of the install process for an online simulation.
 * npm
   ```sh
-  npm install npm@latest -g
+  Ensure a registered account on Tinkercad or a simulation provider which accepts .brd file extensions.
   ```
 
 ### Installation
@@ -99,9 +99,13 @@ This is an example of how to list things you need to use the software and how to
    git clone https://github.com/benyji/fire-alarm-system.git
    ```
    
-2. Install NPM packages
+2. Install Breadboard Layout
    ```sh
-   npm install
+   Extract the `.brd` file and upload it into your simulation provider.
+   ```
+3. Install Provided Code
+   ```sh
+   Extract the `main.ino` file and upload it into your simulation provider under the Arduino.
    ```
 
 
