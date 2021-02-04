@@ -65,7 +65,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://www.tinkercad.com/things/8lGohPeoOZy-fire-alarm-system/editel?sharecode=8Y5Wv5BWVGLZi1ZAPi6bKRMzGM8Z3DBjA2ip9ukAmRk)
-This project aims towards allowing for work-place industry quaility fire-alarm control systems into the every day home. A fun project for intermediate Arduino users or those looking for something new and exciting.
+This project aims towards allowing for work-place industry fire-alarm control systems into the every day home. A fun project for intermediate Arduino users or those looking for something new and exciting. This project in no means is certified and is illegal to use in a work-place setting.
 
 Project Tags:
 `fire-alarm`, `arduino`, `piezo`, `temperature`, `neopixel`, `jewel`, `LCD`, `buttons`, `gas`, `gas-sensor`
@@ -87,7 +87,7 @@ To get a online copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of the install process for an online simulation.
-* npm
+* Pre-Install:
   ```sh
   Ensure a registered account on Tinkercad or a simulation provider which accepts .brd file extensions.
   ```
@@ -113,9 +113,9 @@ This is an example of the install process for an online simulation.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This Arduino project is intended for the use of intermediate level computer-engineers or programmers. The project falls under the `MIT` license, you may use this project for commercial gain. I ask that you give credit where credit is due however this is not required, additionally I am not responsible for what you do with my product.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [LICENSE](https://github.com/benyji/fire-alarm-system/blob/main/LICENSE)_
 
 
 
@@ -156,9 +156,7 @@ Project Link: [https://github.com/benyji/fire-alarm-system](https://github.com/b
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [LICENSE](https://github.com/benyji/fire-alarm-system/blob/main/LICENSE)_
 
 
 
