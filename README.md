@@ -65,7 +65,6 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://www.tinkercad.com/things/8lGohPeoOZy-fire-alarm-system/editel?sharecode=8Y5Wv5BWVGLZi1ZAPi6bKRMzGM8Z3DBjA2ip9ukAmRk)
-
 This project aims towards allowing for work-place industry quaility fire-alarm control systems into the every day home. A fun project for intermediate Arduino users or those looking for something new and exciting.
 
 Project Tags:
@@ -74,9 +73,9 @@ Project Tags:
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Tinkercad]()
+* [Arduino]()
+* [Neopixel]()
 
 
 
