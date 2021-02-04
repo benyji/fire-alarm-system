@@ -18,7 +18,7 @@
   <h3 align="center">Arduino Based Fire Alarm System</h3>
 
   <p align="center">
-    An interactive Arduino based fire alarm system.
+    an interactive Arduino based fire alarm system, Developed by Benjamin (Benyji).
     <br />
     <a href="https://github.com/benyji/fire-alarm-system"><strong>Explore the docs »</strong></a>
     <br />
