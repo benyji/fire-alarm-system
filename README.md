@@ -25,7 +25,7 @@
     <br />
     <a href="https://www.tinkercad.com/things/8lGohPeoOZy-fire-alarm-system">View TinkerCad Demo</a>
     ·
-    <a href="https://github.com/benyji/fire-alarm-system/issues">Report Bug</a>
+    <a href="https://github.com/benyji/fire-alarm-system/issues">fire-alarm-systemrt Bug</a>
     ·
     <a href="https://github.com/benyji/fire-alarm-system/issues">Request Feature</a>
   </p>
@@ -94,7 +94,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the repo
+1. Clone the fire-alarm-system
    ```sh
    git clone https://github.com/benyji/fire-alarm-system.git
    ```
@@ -145,8 +145,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@@benyjinetwork](https://twitter.com/@benyjinetwork) - N/A
-
 Project Link: [https://github.com/benyji/fire-alarm-system](https://github.com/benyji/fire-alarm-system)
 
 
@@ -164,15 +162,13 @@ Project Link: [https://github.com/benyji/fire-alarm-system](https://github.com/b
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/benyji/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/benyji/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/benyji/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/benyji/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/benyji/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/benyji/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/benyji/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/benyji/repo/issues
-[license-shield]: https://img.shields.io/github/license/benyji/repo.svg?style=for-the-badge
-[license-url]: https://github.com/benyji/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/benyji
+[contributors-shield]: https://img.shields.io/github/contributors/benyji/fire-alarm-system.svg?style=for-the-badge
+[contributors-url]: https://github.com/benyji/fire-alarm-system/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/benyji/fire-alarm-system.svg?style=for-the-badge
+[forks-url]: https://github.com/benyji/fire-alarm-system/network/members
+[stars-shield]: https://img.shields.io/github/stars/benyji/fire-alarm-system.svg?style=for-the-badge
+[stars-url]: https://github.com/benyji/fire-alarm-system/stargazers
+[issues-shield]: https://img.shields.io/github/issues/benyji/fire-alarm-system.svg?style=for-the-badge
+[issues-url]: https://github.com/benyji/fire-alarm-system/issues
+[license-shield]: https://img.shields.io/github/license/benyji/fire-alarm-system.svg?style=for-the-badge
+[license-url]: https://github.com/benyji/fire-alarm-system/blob/master/LICENSE.txt
